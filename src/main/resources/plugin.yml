@@ -1,5 +1,5 @@
 name: GPS
-version: '${project.version}'
+version: '1.1'
 main: me.cactus.gps.Plugin
 api-version: 1.16
 author: nCactus
